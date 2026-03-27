@@ -45,7 +45,7 @@ export const categories = [
 ];
 
 const placeholderImg = "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=400&q=80";
-const placeholderImg2 = "https://images.unsplash.com/photo-1543854589-fdd4d3a0d181?w=400&q=80";
+const placeholderImg2 = "https://pin.it/3hPlortU1";
 const placeholderImg3 = "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=400&q=80";
 const placeholderImg4 = "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?w=400&q=80";
 const placeholderImg5 = "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=400&q=80";
